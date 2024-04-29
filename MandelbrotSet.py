@@ -1,8 +1,3 @@
-"""
-I'm gonna reimplement the mandelbrot set progrmm I made but with numpy
-
-"""
-
 ## imports
 
 import numpy as np
